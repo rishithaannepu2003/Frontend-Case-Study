@@ -59,7 +59,7 @@ Optimized for all devices, including desktops, tablets, and smartphones.
 
 ★ **Database (Optional)**: MongoDB or Firebase for storing profile data
 
-★ **How to Run the Project 🚀**
+**How to Run the Project 🚀**
 
 **Clone this repository**:
 
@@ -106,5 +106,5 @@ http://localhost:3000
 Feel free to contribute to this repository or raise issues for discussion!
 
 **License 📄**
-This project is licensed under the MIT License.
+This project is licensed under the "MIT License".
 
