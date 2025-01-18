@@ -1,0 +1,46 @@
+th{
+    width: 450px;
+}
+td{
+    text-align: center;
+}
+/* table{
+    width: 100%;
+} */
+button{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.user{
+    width: 500px;
+}
+.updatebtn{
+    margin-left: 200px;
+    background-color: rgb(51, 204, 51);
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+.deletebtn{
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+tr{
+    row-gap: 20px;
+}
+.add{
+    position: absolute;
+    top: 70px;
+    right: 175px;
+    text-align: center;
+    margin-left: 90px;
+    margin-top: 20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    background-color:#1976d2;
+    color: #fff;
+}
