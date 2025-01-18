@@ -105,6 +105,5 @@ http://localhost:3000
 
 Feel free to contribute to this repository or raise issues for discussion!
 
-**License 📄**
-This project is licensed under the "MIT License".
+
 
